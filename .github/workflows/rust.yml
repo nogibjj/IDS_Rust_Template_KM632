@@ -23,7 +23,7 @@ jobs:
             override: true
 
       - name: Run rustfmt
-        run: make format-check
+        run: make format
 
       - name: Run clippy
         run: make lint
