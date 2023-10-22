@@ -32,4 +32,4 @@ jobs:
         run: make test
 
       - name: Run clippy
-        run: make build-release
+        run: make release
