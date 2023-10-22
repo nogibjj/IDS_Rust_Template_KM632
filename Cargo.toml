@@ -1,10 +1,10 @@
 [package]
-name = "Rust Project Template" 
+name = "Rust_Project_Template" 
 created_by = ["Haliunaa Munkhuu"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Rust Project Template"
+title = "Rust_Project_Template"
 version = "0.1.0"
 edition = "2018" 
 
