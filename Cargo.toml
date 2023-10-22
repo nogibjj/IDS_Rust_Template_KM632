@@ -1,5 +1,5 @@
 [package]
-
+name = "Rust Project Template" 
 created_by = ["Haliunaa Munkhuu"]
 language = "en"
 multilingual = false
